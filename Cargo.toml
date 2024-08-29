@@ -1,6 +1,6 @@
 [package]
-name = "TicTacRust"
-version = "0.1.0"
+name = "tic-tac-game"
+version = "1.0.0"
 edition = "2021"
 
 [dependencies]
