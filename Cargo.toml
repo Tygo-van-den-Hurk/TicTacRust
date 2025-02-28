@@ -1,5 +1,5 @@
 [package]
-name = "TicTacRust"
+name = "tic_tac_rust"
 version = "0.1.0"
 edition = "2021"
 
